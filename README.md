@@ -7,7 +7,7 @@
 * ⚡ In my free time, I create a pet-projects and learn a networks
 
 ### 📱 Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lishchuk_bogdan0/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/a_lot_of_fixed_bugs/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/BogdanLishchuk)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bohdan-lishchuk-3285b9269/)
 
