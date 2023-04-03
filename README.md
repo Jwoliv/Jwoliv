@@ -19,3 +19,10 @@
 
 ### 🗜️ Tools
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,postman,stackoverflow,photoshop,figma)](https://skillicons.dev)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jwoliv&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jwoliv&theme=dark)
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jwoliv&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jwoliv&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jwoliv&theme=dark)
